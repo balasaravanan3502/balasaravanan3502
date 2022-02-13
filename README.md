@@ -2,16 +2,16 @@
 <h3 align="center">
   A passionate Full stack developer and ML enthusiast from India
 </h3>
-
+<!-- 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=balasaravanan3502&label=Profile%20views&color=0e75b6&style=flat"
     alt="balasaravanan3502"
   />
-</p>
+</p> -->
 
 <!-- - 🌱 I’m currently learning **Devops** -->
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
@@ -126,7 +126,7 @@
     />
   </a>
 </p>
-
+<hr>
 <!-- <p>
   <img
     align="left"
