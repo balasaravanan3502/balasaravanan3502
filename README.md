@@ -32,6 +32,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
       height="58"
+      style="margin: 10px"
     />
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
