@@ -126,13 +126,13 @@
   </a>
 </p>
 
-<p>
+<!-- <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=balasaravanan3502&show_icons=true&locale=en&layout=compact"
     alt="balasaravanan3502"
   />
-</p>
+</p> -->
 
 <p>
   &nbsp;<img
