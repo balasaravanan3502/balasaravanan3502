@@ -6,7 +6,7 @@
 <br>
 
 
-- 🌱 I’m currently learning **Angular, DevOps** 
+- 🌱 I’m currently learning **DevOps** 
   
 - 👨‍💻 All of my projects
   are available at
