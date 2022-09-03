@@ -13,7 +13,7 @@
    [Repos](https://github.com/balasaravanan3502?tab=repositories)
 
 - 💬 Ask me about **ReactJs, NodeJs, Flutter, Tensorflow**
-- 📫 How to reachme **balasaravananvp35@gmail.com**
+- 📫 How to reach me **balasaravananvp35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -230,7 +230,7 @@
  <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=balasaravanan3502&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=balasaravanan3502&include_all_commits=false&count_private=true"
     alt="balasaravanan3502"
   />
 </p> 
